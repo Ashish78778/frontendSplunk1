@@ -4,6 +4,7 @@ import About from "./routes/About";
 import Service from "./routes/Service";
 import Contact from "./routes/Contact";
 import SignUp from "./routes/SignUp";
+import './splunk-instrumentation'; 
 
 function App() {
   return (
